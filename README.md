@@ -1,7 +1,7 @@
-<a href="https://chatbot.ai-sdk.dev/demo">
+<!-- <a href="https://chatbot.ai-sdk.dev/demo">
   <img alt="Chatbot" src="app/(chat)/opengraph-image.png">
   <h1 align="center">Chatbot</h1>
-</a>
+</a> -->
 
 <p align="center">
     Chatbot (formerly AI Chatbot) is a free, open-source template built with Next.js and the AI SDK that helps you quickly build powerful chatbot applications.
