@@ -3,9 +3,9 @@
   <h1 align="center">Chatbot</h1>
 </a> -->
 
-<p align="center">
+<!-- <p align="center">
     Chatbot (formerly AI Chatbot) is a free, open-source template built with Next.js and the AI SDK that helps you quickly build powerful chatbot applications.
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://chatbot.ai-sdk.dev/docs"><strong>Read Docs</strong></a> ·
