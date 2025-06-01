@@ -9,9 +9,7 @@ export class ChatPage {
     this.page = page;
   }
 
-  async goto() {
-    await this.page.goto("/");
-  }
+  async goto() {await this.page.goto("/");}
 
   async createNewChat() {
     await this.page.goto("/");
